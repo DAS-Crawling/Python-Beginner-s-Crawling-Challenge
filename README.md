@@ -4,3 +4,5 @@
 
 [Team] DA채로움 (DA: Data Analysis)
        (강병주, 송유림, 이지은, 이혜정, 정서영, 조준희)
+
+[책 링크] 리디북스 https://ridibooks.com/books/2773000075
