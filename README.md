@@ -1,6 +1,6 @@
 # Python-Beginner-s-Crawling-Challenge
 <br>
-<img src="https://github.com/syur997/Python-Beginner-s-Crawling-Challenge/assets/110324563/49f60b93-a615-4ecd-b624-a169be358b16.png" width="400" height="500"/>
+<img src="https://github.com/syur997/Python-Beginner-s-Crawling-Challenge/assets/110324563/49f60b93-a615-4ecd-b624-a169be358b16.png" width="400" height="550"/>
 <br>
 <br>
 [책 제목] 파이썬 왕초보의 크롤링 도전: 웹 데이터 수집부터 저장까지
